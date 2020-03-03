@@ -1,4 +1,4 @@
-package chart;
+package fuentBuilder;
 
 import java.util.List;
 
